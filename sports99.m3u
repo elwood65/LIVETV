@@ -2141,14 +2141,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NETFLIX%20MOVIES%201&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=NETFLIX%20MOVIES%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NETFLIX.MOVIES.3" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NETFLIX MOVIES 3)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NETFLIX%20MOVIES%203&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NetFlix.Asia" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NetFlix Asia)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NetFlix%20Asia&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NetFlix.Classic" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NetFlix Classic)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NetFlix%20Classic&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NetFLix.Crime" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NetFLix Crime)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NetFLix%20Crime&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NetFlix.Drama" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NetFlix Drama)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NetFlix%20Drama&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NETFLIX.French" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NETFLIX French)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NETFLIX%20French&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NetFlix.HollyooWD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (NetFlix HollyooWD)
@@ -2221,12 +2217,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Cine%20Cl%C3%A1sico%
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Cine%20Comedia%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Cine.Drama.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Cine Drama ES)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Cine%20Drama%20ES&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Netflix.Cine.Romántico.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Cine Romántico ES)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Cine%20Rom%C3%A1ntico%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Cocina.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Cocina ES)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Cocina%20ES&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Netflix.Horror.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Horror ES)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Horror%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Indies.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Indies ES)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Netflix%20Indies%20ES&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Netflix.Junior.ES" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (Netflix Junior ES)
@@ -2287,8 +2279,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-
 https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E07&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E08" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (The Netflix Afterparty - S01E08)
 https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E08&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E09" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (The Netflix Afterparty - S01E09)
-https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E09&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="The.Netflix.Afterparty.-.S01E10" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-11 00:35 - NFL - Los Angeles Rams vs San Francisco 49ers (The Netflix Afterparty - S01E10)
 https://cdnlivetv.tv/api/v1/channels/player/?name=The%20Netflix%20Afterparty%20-%20S01E10&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-12 17:00 - CFL - Toronto Argonauts vs Ottawa Redblacks (TSN 1 HD CA)
@@ -2459,14 +2449,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirat
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20Giants&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AT&T.SportsNet.Pittsburgh.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/at-t-sportsnet-pittsburgh-hd-us.webp",[MLB] 2026-09-01 22:40 - MLB - Pittsburgh Pirates vs San Francisco Giants (AT&T SportsNet Pittsburgh HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=AT%26T%20SportsNet%20Pittsburgh%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB:.New.York.Mets.vs.Tampa.Bay.@.Aug.31.6:30.PM.:Sportsnet+..05" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 22:40 - MLB - Tampa Bay Rays vs New York Mets (MLB: New York Mets vs Tampa Bay @ Aug 31 6:30 PM :Sportsnet+  05)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%3A%20New%20York%20Mets%20vs%20Tampa%20Bay%20%40%20Aug%2031%206%3A30%20PM%20%3ASportsnet%2B%20%2005&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 22:40 - MLB - Tampa Bay Rays vs New York Mets (MLB | Tampa Bay Rays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Mets" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 22:40 - MLB - Tampa Bay Rays vs New York Mets (MLB | New York Mets)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SportsNet.New.York.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-new-york-fhd-us.webp",[MLB] 2026-09-01 22:40 - MLB - Tampa Bay Rays vs New York Mets (SportsNet New York FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SportsNet%20New%20York%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB:.New.York.Mets.vs.Tampa.Bay.@.Aug.31.6:30.PM.:Sportsnet+..05" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 22:40 - MLB - Tampa Bay Rays vs New York Mets (MLB: New York Mets vs Tampa Bay @ Aug 31 6:30 PM :Sportsnet+  05)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%3A%20New%20York%20Mets%20vs%20Tampa%20Bay%20%40%20Aug%2031%206%3A30%20PM%20%3ASportsnet%2B%20%2005&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 22:40 - MLB - Cleveland Guardians vs Toronto Blue Jays (MLB | Cleveland Guardians)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Toronto.Blue.Jays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 22:40 - MLB - Cleveland Guardians vs Toronto Blue Jays (MLB | Toronto Blue Jays)
@@ -2495,6 +2485,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners
 https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 22:45 - MLB - Boston Red Sox vs Seattle Mariners (Sportsnet One HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB:.Seattle.vs.Boston.@.Aug.31.6:30.PM.:Sportsnet+..06" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 22:45 - MLB - Boston Red Sox vs Seattle Mariners (MLB: Seattle vs Boston @ Aug 31 6:30 PM :Sportsnet+  06)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%3A%20Seattle%20vs%20Boston%20%40%20Aug%2031%206%3A30%20PM%20%3ASportsnet%2B%20%2006&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Minnesota.Twins" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 23:40 - MLB - Minnesota Twins vs Detroit Tigers (MLB | Minnesota Twins)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 23:40 - MLB - Minnesota Twins vs Detroit Tigers (MLB | Detroit Tigers)
@@ -2507,8 +2499,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 23:40 - MLB - Chicago Cubs vs Milwaukee Brewers (MLB | Milwaukee Brewers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-hd-uk.webp",[MLB] 2026-09-01 23:40 - MLB - Chicago Cubs vs Milwaukee Brewers (TNT Sports 1 HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-09-01 23:40 - MLB - Chicago Cubs vs Milwaukee Brewers (TNT Sports 1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 23:40 - MLB - Chicago Cubs vs Milwaukee Brewers (Marquee Sports Network FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Texas.Rangers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 00:05 - MLB - Texas Rangers vs Athletics (MLB | Texas Rangers)
@@ -2535,14 +2527,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MASN%20US&code=us&user=cdnlive
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 01:38 - MLB - Los Angeles Angels vs New York Yankees (MLB | New York Yankees)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="YES.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/yes-network-us.webp",[MLB] 2026-09-02 01:38 - MLB - Los Angeles Angels vs New York Yankees (YES Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=YES%20Network%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 01:38 - MLB - Los Angeles Angels vs New York Yankees (Sportsnet One HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network-hd-us.webp",[MLB] 2026-09-02 01:38 - MLB - Los Angeles Angels vs New York Yankees (MLB Network HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/tva-sports-ca.webp",[MLB] 2026-09-02 01:38 - MLB - Los Angeles Angels vs New York Yankees (TVA Sports CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="YES.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/yes-network-us.webp",[MLB] 2026-09-02 01:38 - MLB - Los Angeles Angels vs New York Yankees (YES Network US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=YES%20Network%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 01:40 - MLB - Arizona Diamondbacks vs Philadelphia Phillies (MLB | Arizona Diamondbacks)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 01:40 - MLB - Arizona Diamondbacks vs Philadelphia Phillies (MLB | Philadelphia Phillies)
@@ -2633,8 +2625,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 23:40 - MLB - Chicago Cubs vs Milwaukee Brewers (MLB | Milwaukee Brewers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-hd-uk.webp",[MLB] 2026-09-02 23:40 - MLB - Chicago Cubs vs Milwaukee Brewers (TNT Sports 1 HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-09-02 23:40 - MLB - Chicago Cubs vs Milwaukee Brewers (TNT Sports 1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 23:40 - MLB - Chicago Cubs vs Milwaukee Brewers (Marquee Sports Network FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Houston.Astros" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-03 00:10 - MLB - Houston Astros vs Chicago White Sox (MLB | Houston Astros)
@@ -2649,14 +2641,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Chicago%20Sports%20Network%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-03 01:38 - MLB - Los Angeles Angels vs New York Yankees (MLB | New York Yankees)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="YES.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/yes-network-us.webp",[MLB] 2026-09-03 01:38 - MLB - Los Angeles Angels vs New York Yankees (YES Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=YES%20Network%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-03 01:38 - MLB - Los Angeles Angels vs New York Yankees (Sportsnet One HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network-hd-us.webp",[MLB] 2026-09-03 01:38 - MLB - Los Angeles Angels vs New York Yankees (MLB Network HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/tva-sports-ca.webp",[MLB] 2026-09-03 01:38 - MLB - Los Angeles Angels vs New York Yankees (TVA Sports CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=ca&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="YES.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/yes-network-us.webp",[MLB] 2026-09-03 01:38 - MLB - Los Angeles Angels vs New York Yankees (YES Network US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=YES%20Network%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-03 02:10 - MLB - Los Angeles Dodgers vs St. Louis Cardinals (MLB | Los Angeles Dodgers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.St..Louis.Cardinals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-03 02:10 - MLB - Los Angeles Dodgers vs St. Louis Cardinals (MLB | St. Louis Cardinals)
@@ -2721,8 +2713,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%202%20HD%20QC&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-03 23:15 - MLB - Chicago Cubs vs Milwaukee Brewers (MLB | Milwaukee Brewers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-hd-uk.webp",[MLB] 2026-09-03 23:15 - MLB - Chicago Cubs vs Milwaukee Brewers (TNT Sports 1 HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-09-03 23:15 - MLB - Chicago Cubs vs Milwaukee Brewers (TNT Sports 1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-03 23:15 - MLB - Chicago Cubs vs Milwaukee Brewers (Marquee Sports Network FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-03 23:40 - MLB - Kansas City Royals vs Miami Marlins (MLB | Kansas City Royals)
@@ -3129,8 +3121,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondb
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 18:10 - MLB - Milwaukee Brewers vs Chicago Cubs (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-hd-uk.webp",[MLB] 2026-09-07 18:10 - MLB - Milwaukee Brewers vs Chicago Cubs (TNT Sports 1 HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-09-07 18:10 - MLB - Milwaukee Brewers vs Chicago Cubs (TNT Sports 1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 18:10 - MLB - Milwaukee Brewers vs Chicago Cubs (Marquee Sports Network FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 19:10 - MLB - Detroit Tigers vs Minnesota Twins (MLB | Detroit Tigers)
@@ -3195,8 +3187,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondb
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 23:40 - MLB - Milwaukee Brewers vs Chicago Cubs (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-hd-uk.webp",[MLB] 2026-09-08 23:40 - MLB - Milwaukee Brewers vs Chicago Cubs (TNT Sports 1 HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-09-08 23:40 - MLB - Milwaukee Brewers vs Chicago Cubs (TNT Sports 1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 23:40 - MLB - Milwaukee Brewers vs Chicago Cubs (Marquee Sports Network FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Seattle.Mariners" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-09 01:40 - MLB - Seattle Mariners vs Texas Rangers (MLB | Seattle Mariners)
@@ -3271,8 +3263,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondb
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-09 23:40 - MLB - Milwaukee Brewers vs Chicago Cubs (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-hd-uk.webp",[MLB] 2026-09-09 23:40 - MLB - Milwaukee Brewers vs Chicago Cubs (TNT Sports 1 HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=gb&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-09-09 23:40 - MLB - Milwaukee Brewers vs Chicago Cubs (TNT Sports 1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-09 23:40 - MLB - Milwaukee Brewers vs Chicago Cubs (Marquee Sports Network FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-10 02:10 - MLB - Los Angeles Dodgers vs Cincinnati Reds (MLB | Los Angeles Dodgers)
@@ -4247,6 +4239,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%208&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%209&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Apple.TV+.Series.10" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Apple TV+ Series 10)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%2010&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 08:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 08:45 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 08:45 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4279,6 +4273,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 11:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 13:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 13:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 13:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4311,6 +4307,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 15:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 08:10 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 08:10 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 08:10 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4331,6 +4329,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20UK&code=&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 08:10 - MotoGP -  vs  (TNT Sports 2 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 08:50 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 08:50 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 08:50 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4351,6 +4351,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20UK&code=&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.2.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 08:50 - MotoGP -  vs  (TNT Sports 2 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 09:15 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 09:15 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 09:15 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4377,6 +4379,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 10:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4409,6 +4413,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&pl
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4435,6 +4441,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 13:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-18 08:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-18 08:45 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-18 08:45 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4449,6 +4457,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-18 08:45 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-18 13:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-18 13:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-18 13:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4463,6 +4473,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-18 13:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 08:10 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 08:10 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 08:10 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4477,6 +4489,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 08:10 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 08:50 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 08:50 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 08:50 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4491,6 +4505,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 08:50 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 09:15 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 09:15 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 09:15 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4505,6 +4521,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 09:15 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 13:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 13:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 13:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4525,6 +4543,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&pl
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 14:30 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4605,6 +4625,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&pl
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-27 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 00:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 00:45 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 00:45 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4631,6 +4653,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 04:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 05:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 05:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 05:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4657,6 +4681,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 08:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 01:10 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 01:10 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 01:10 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4671,6 +4697,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 01:10 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 01:50 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 01:50 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 01:50 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4685,6 +4713,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 01:50 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 02:15 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 02:15 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 02:15 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4711,6 +4741,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 04:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4737,6 +4769,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 08:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4769,6 +4803,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&pl
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 03:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 03:45 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 03:45 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4783,6 +4819,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 03:45 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4821,6 +4859,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 02:50 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 02:50 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 02:50 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4835,6 +4875,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 02:50 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 03:10 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 03:10 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 03:10 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4849,6 +4891,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 03:10 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 03:15 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 03:15 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 03:15 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4863,6 +4907,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 03:15 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 08:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 08:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 08:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4901,6 +4947,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4939,6 +4987,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&pl
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 00:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 00:45 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 00:45 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4953,6 +5003,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 00:45 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 05:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 05:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 05:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -4991,6 +5043,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 00:50 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 00:50 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 00:50 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5005,6 +5059,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 00:50 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 01:10 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 01:10 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 01:10 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5019,6 +5075,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 01:10 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 01:15 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 01:15 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 01:15 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5033,6 +5091,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 01:15 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5071,6 +5131,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5103,6 +5165,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5117,6 +5181,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 03:45 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 08:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 08:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 08:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5155,6 +5221,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 02:50 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 02:50 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 02:50 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5169,6 +5237,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 02:50 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5183,6 +5253,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:10 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:15 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:15 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:15 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5197,6 +5269,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 03:15 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5235,6 +5309,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5279,6 +5355,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:45 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:45 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5305,6 +5383,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 20:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 20:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 20:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5319,6 +5399,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 20:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 13:40 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 13:40 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 13:40 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5333,6 +5415,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 13:40 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:05 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:05 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:05 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5359,6 +5443,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 15:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 15:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 15:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5373,6 +5459,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 15:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5417,6 +5505,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5455,6 +5545,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5469,6 +5561,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 10:45 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 15:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5507,6 +5601,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5521,6 +5617,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:10 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5535,6 +5633,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 10:50 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5549,6 +5649,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 11:15 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5575,6 +5677,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5589,6 +5693,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 08:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 08:45 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 08:45 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5603,6 +5709,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 08:45 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5641,6 +5749,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 08:10 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 08:10 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 08:10 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5655,6 +5765,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 08:10 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5669,6 +5781,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 09:50 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5683,6 +5797,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 10:15 - MotoGP -  vs  (MotoGP OB1 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5721,6 +5837,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:00.AM.EDT.MOTOGP.Racing.-.Aragon.GP.8/31.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (12:00 AM EDT MOTOGP Racing - Aragon GP 8/31 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=12%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Aragon%20GP%208%2F31%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="12:30.AM.EDT.MOTOGP.Racing.-.Aragon.GP.9/1.[FOX.One]" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (12:30 AM EDT MOTOGP Racing - Aragon GP 9/1 [FOX One])
@@ -5807,202 +5925,118 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=-%3D%20Reload%20your%20playlist%20F1%20%3D-&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-01 23:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-01 23:00 - UFC -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
+https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-01 23:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-01 23:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-01 23:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-01 23:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-01 23:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-01 23:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 19:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 19:00 - UFC -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
+https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 19:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 19:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 19:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 19:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 19:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 19:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
+https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
+https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
+https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
+https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
+https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
+https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
+https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
+https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
+https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
+https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
+https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
+https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-09-02 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-09-02 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
@@ -6031,34 +6065,22 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&
 https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-25 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
+https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.em.Português.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (4:30 PM EDT UFC 330 em Português UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20em%20Portugu%C3%AAs%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="4:00.PM.EDT.UFC.330:.English.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (4:00 PM EDT UFC 330: English UFC 8/15)
+https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A00%20PM%20EDT%20UFC%20330%3A%20English%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="4:30.PM.EDT.UFC.330.en.Español.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (4:30 PM EDT UFC 330 en Español UFC 8/15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=4%3A30%20PM%20EDT%20UFC%20330%20en%20Espa%C3%B1ol%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="9:00.PM.EDT.UFC.330:.Multiview.UFC.8/15" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (9:00 PM EDT UFC 330: Multiview UFC 8/15)
-https://cdnlivetv.tv/api/v1/channels/player/?name=9%3A00%20PM%20EDT%20UFC%20330%3A%20Multiview%20UFC%208%2F15&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="11:30.PM.EDT.UFC.Fight.Night.Preview.Show:.Nurmagomedov.vs..Song.UFC.8/27" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (11:30 PM EDT UFC Fight Night Preview Show: Nurmagomedov vs. Song UFC 8/27)
 https://cdnlivetv.tv/api/v1/channels/player/?name=11%3A30%20PM%20EDT%20UFC%20Fight%20Night%20Preview%20Show%3A%20Nurmagomedov%20vs.%20Song%20UFC%208%2F27&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night:.English.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (2:00 AM EDT UFC Fight Night: English UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%3A%20English%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.em.Português.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (2:00 AM EDT UFC Fight Night em Português UFC 8/29)
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20em%20Portugu%C3%AAs%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.AM.EDT.UFC.Fight.Night.en.Español.UFC.8/29" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (2:00 AM EDT UFC Fight Night en Español UFC 8/29)
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20UFC%20Fight%20Night%20en%20Espa%C3%B1ol%20UFC%208%2F29&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-02 12:08 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-02 12:08 - UCI World Tour -  vs  (Eurosport 1 FHD)
