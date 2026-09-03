@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="coppaitaliapalermovsmantova" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia : Palermo 🇮🇹 vs Mantova 🇮🇹 (16:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Palermo 🇮🇹_vs_Mantova 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia : Palermo 🇮🇹 vs Mantova 🇮🇹 (16:00)
-https://dlhd.pk/watch.php?id=854
-
 #EXTINF:-1 tvg-id="coppaitaliacagliarivsverona" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia : Cagliari 🇮🇹 vs Verona 🇮🇹 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Cagliari 🇮🇹_vs_Verona 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia : Cagliari 🇮🇹 vs Verona 🇮🇹 (19:00)
 https://dlhd.pk/watch.php?id=854
 
@@ -14,24 +11,6 @@ https://dlhd.pk/watch.php?id=9
 #EXTINF:-1 tvg-id="coppaitaliaseriectrentovsdesenzanocalvina" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia Serie C : Trento 🇮🇹 vs Desenzano Calvina 🇮🇹 (19:00)" tvg-logo="https://raw.githubusercontent.com/leanhhu061206/LIVETV/raw/branch/main/logos/logos/Trento 🇮🇹_vs_Desenzano Calvina 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia Serie C : Trento 🇮🇹 vs Desenzano Calvina 🇮🇹 (19:00)
 https://dlhd.pk/watch.php?id=870
 
-#EXTINF:-1 tvg-id="2026usopentennismensampwomenssecondround" tvg-name="Tennis 🎾 | 🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round (15:00)" tvg-logo="https://barksdale.co.ke/wp-content/uploads/2023/08/6-20-1024x1024.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round (15:00)
-https://dlhd.pk/watch.php?id=461
-
-#EXTINF:-1 tvg-id="2026usopentennismensampwomenssecondround" tvg-name="Tennis 🎾 | 🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round (15:00)" tvg-logo="https://cdn.creazilla.com/cliparts/41824/panties-clipart-xl.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round (15:00)
-https://dlhd.pk/watch.php?id=576
-
-#EXTINF:-1 tvg-id="2026usopentennismensampwomenssecondround" tvg-name="Tennis 🎾 | 🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round (15:00)" tvg-logo="https://www.pressmyweb.com/wp-content/uploads/2013/05/SUR_Pro_Stand_Mag_Pen_FrontAng.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round (15:00)
+#EXTINF:-1 tvg-id="britishopen3rdround" tvg-name="Snooker 🎱 | 🎱 🇬🇧 British Open | 3rd Round (18:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 🇬🇧 British Open | 3rd Round (18:00)
 https://dlhd.pk/watch.php?id=879
-
-#EXTINF:-1 tvg-id="2026usopentennismensampwomenssecondround" tvg-name="Tennis 🎾 | 🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round (15:00)" tvg-logo="https://i.pinimg.com/originals/e2/95/6e/e2956e6104723858f8b7cca19af5cfd5.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round (15:00)
-https://dlhd.pk/watch.php?id=878
-
-#EXTINF:-1 tvg-id="britishopen3rdround" tvg-name="Snooker 🎱 | 🎱 🇬🇧 British Open | 3rd Round (18:00)" tvg-logo="https://pbs.twimg.com/media/Dpl7eJPXgAEauiq.jpg" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 🇬🇧 British Open | 3rd Round (18:00)
-https://dlhd.pk/watch.php?id=879
-
-#EXTINF:-1 tvg-id="europeanchampionshipswomenquarterfinalsgermanywvstürkiyewazerbaijanw" tvg-name="Volleyball 🏐 | 🏐 🇩🇪 European Championships Women Quarterfinals : Germany W 🇩🇪 vs Türkiye W 🇹🇷 / Azerbaijan W 🇦🇿 (16:00)" tvg-logo="https://www.mappr.co/wp-content/uploads/2023/07/germany-states-map.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇩🇪 European Championships Women Quarterfinals : Germany W 🇩🇪 vs Türkiye W 🇹🇷 / Azerbaijan W 🇦🇿 (16:00)
-https://dlhd.pk/watch.php?id=461
-
-#EXTINF:-1 tvg-id="europeanchampionshipswomenquarterfinalsgermanywvstürkiyewazerbaijanw" tvg-name="Volleyball 🏐 | 🏐 🇩🇪 European Championships Women Quarterfinals : Germany W 🇩🇪 vs Türkiye W 🇹🇷 / Azerbaijan W 🇦🇿 (16:00)" tvg-logo="https://www.mappr.co/wp-content/uploads/2023/07/germany-states-map.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇩🇪 European Championships Women Quarterfinals : Germany W 🇩🇪 vs Türkiye W 🇹🇷 / Azerbaijan W 🇦🇿 (16:00)
-https://dlhd.pk/watch.php?id=462
 
