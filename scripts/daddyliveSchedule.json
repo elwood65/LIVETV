@@ -739,6 +739,86 @@
             },
             {
                 "time": "10:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Women Allsvenskan : Pite\u00e5 IF DFF \ud83c\uddf8\ud83c\uddea vs V\u00e4xj\u00f6 DFF \ud83c\uddf8\ud83c\uddea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "152"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "\u26bd \ud83c\uddef\ud83c\uddf5 Japan J League : Avispa Fukuoka \ud83c\uddef\ud83c\uddf5 vs Mito HollyHock \ud83c\uddef\ud83c\uddf5",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\udde6 Ukraine Premier League : Kryvbas Kryvyi Rih \ud83c\uddfa\ud83c\udde6 vs Kolos Kovalivka \ud83c\uddfa\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "155"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\udde6 Ukraine Premier League : FC Kharkiv \ud83c\uddfa\ud83c\udde6 vs Obolon Kyiv \ud83c\uddfa\ud83c\udde6",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "157"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddf7 South Korea K League : FC Seoul \ud83c\uddf0\ud83c\uddf7 vs Incheon United \ud83c\uddf0\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "158"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddf7 South Korea K League : Jeonbuk Hyundai Motors \ud83c\uddf0\ud83c\uddf7 vs Pohang Steelers \ud83c\uddf0\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "159"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddf7 South Korea K League : Jeju SK FC \ud83c\uddf0\ud83c\uddf7 vs Ulsan HD FC \ud83c\uddf0\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "160"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
+                "event": "\u26bd \ud83c\uddf0\ud83c\uddf7 South Korea K League : Bucheon FC 1995 \ud83c\uddf0\ud83c\uddf7 vs Daejeon Hana Citizen \ud83c\uddf0\ud83c\uddf7",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "10:00",
                 "event": "\u26bd Serbian Women's Super League : \ud83c\uddf7\ud83c\uddf8 \u017dFK Vojvodina \ud83c\uddf7\ud83c\uddf8 vs \ud83c\uddf7\ud83c\uddf8 \u017dFK TSC Ba\u010dka Topola \ud83c\uddf7\ud83c\uddf8",
                 "channels": [
                     {
@@ -788,6 +868,10 @@
                     {
                         "channel_name": "DAZN2 Spain",
                         "channel_id": "447"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "208"
                     }
                 ]
             },
@@ -798,6 +882,10 @@
                     {
                         "channel_name": "DAZN2 Spain",
                         "channel_id": "446"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "208"
                     }
                 ]
             },
@@ -812,6 +900,10 @@
                     {
                         "channel_name": "DAZN2 DE",
                         "channel_id": "427"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "209"
                     }
                 ]
             },
@@ -2233,7 +2325,7 @@
                 "channels": [
                     {
                         "channel_name": "TVP 1 Poland",
-                        "channel_id": "225"
+                        "channel_id": "560"
                     }
                 ]
             },
@@ -6416,7 +6508,7 @@
         ],
         "Tennis US OPEN [All Court \ud83c\udfdf\ufe0f] \ud83c\udfbe": [
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f RED Zone | Multi Feed",
                 "channels": [
                     {
@@ -6430,7 +6522,7 @@
                 ]
             },
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Arthur Ashe Stadium",
                 "channels": [
                     {
@@ -6448,7 +6540,7 @@
                 ]
             },
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Louis Armstrong Stadium",
                 "channels": [
                     {
@@ -6462,7 +6554,7 @@
                 ]
             },
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Grandstand",
                 "channels": [
                     {
@@ -6476,7 +6568,7 @@
                 ]
             },
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfdf\ufe0f Stadium 17",
                 "channels": [
                     {
@@ -6486,7 +6578,7 @@
                 ]
             },
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 4",
                 "channels": [
                     {
@@ -6496,7 +6588,7 @@
                 ]
             },
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 5",
                 "channels": [
                     {
@@ -6506,7 +6598,7 @@
                 ]
             },
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 6",
                 "channels": [
                     {
@@ -6516,7 +6608,7 @@
                 ]
             },
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 7",
                 "channels": [
                     {
@@ -6526,7 +6618,7 @@
                 ]
             },
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 8",
                 "channels": [
                     {
@@ -6536,7 +6628,7 @@
                 ]
             },
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 9",
                 "channels": [
                     {
@@ -6546,7 +6638,7 @@
                 ]
             },
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 10",
                 "channels": [
                     {
@@ -6556,7 +6648,7 @@
                 ]
             },
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 11",
                 "channels": [
                     {
@@ -6566,7 +6658,7 @@
                 ]
             },
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 12",
                 "channels": [
                     {
@@ -6576,7 +6668,7 @@
                 ]
             },
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 13",
                 "channels": [
                     {
@@ -6586,7 +6678,7 @@
                 ]
             },
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 14",
                 "channels": [
                     {
@@ -6596,7 +6688,7 @@
                 ]
             },
             {
-                "time": "07:38",
+                "time": "10:25",
                 "event": "\ud83c\udfbe\ud83c\udfc6 US Open : \ud83c\udfbe Court 15",
                 "channels": [
                     {
@@ -7552,6 +7644,10 @@
                     {
                         "channel_name": "Sky Sports F1 UK",
                         "channel_id": "60"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "938"
                     },
                     {
                         "channel_name": "Sky Sport F1 DE",
