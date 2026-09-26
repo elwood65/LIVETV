@@ -31,12 +31,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.6.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-26 19:30 - Brazilian Serie B - Operário Ferroviário vs Ceará (Premiere 6 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/tnt-us.webp",[Soccer] 2026-09-26 20:30 - International Friendlies - USA vs Peru (TNT US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.Brasil.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-brasil-hd-br.webp",[Soccer] 2026-09-26 20:30 - International Friendlies - USA vs Peru (ESPN Brasil HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.FHD.MX" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-26 20:30 - International Friendlies - USA vs Peru (Telemundo FHD MX)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20FHD%20MX&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.Clubes.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-26 21:30 - Brazilian Serie B - Goiás vs Atlético Goianiense (Premiere Clubes HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-26 21:30 - Brazilian Serie B - Goiás vs Atlético Goianiense (Premiere 2 HD BR)
@@ -55,8 +49,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-26 23:00 - International Friendlies - Canada vs Chile (Fox Soccer Plus HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Soccer%20Plus%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.4.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-26 23:00 - International Friendlies - Canada vs Chile (TSN 4 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-26 23:00 - International Friendlies - Canada vs Chile (TSN 4 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RDS.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp",[Soccer] 2026-09-26 23:30 - American Major League Soccer - CF Montréal vs FC Cincinnati (RDS CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Univision.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-27 01:00 - International Friendlies - Mexico vs Colombia (Univision CA)
@@ -1601,6 +1595,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20HD%20UK&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20NFL%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Kitchener" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-27 17:00 - NFL - Detroit Lions vs New York Jets (CA CTV Kitchener)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Kitchener&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CTV.Kitchener.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-27 17:00 - NFL - Detroit Lions vs New York Jets (CTV Kitchener CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Kitchener%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Kitchener" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-27 17:00 - NFL - Detroit Lions vs New York Jets (CA CTV Kitchener)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Kitchener&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Winnipeg" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-27 17:00 - NFL - Pittsburgh Steelers vs Cincinnati Bengals (CA CTV Winnipeg)
@@ -1681,6 +1677,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Edmonton&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Ottawa.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-27 20:25 - NFL - Dallas Cowboys vs Baltimore Ravens (CTV Ottawa HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Ottawa%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CTV.Kitchener.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-27 20:25 - NFL - Dallas Cowboys vs Baltimore Ravens (CTV Kitchener CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Kitchener%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Calgary.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-27 20:25 - NFL - Dallas Cowboys vs Baltimore Ravens (CTV Calgary CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Calgary%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Toronto.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-27 20:25 - NFL - Dallas Cowboys vs Baltimore Ravens (CTV Toronto CA)
@@ -1733,6 +1731,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Edmonton&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Ottawa.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-28 00:20 - NFL - Denver Broncos vs Los Angeles Rams (CTV Ottawa HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Ottawa%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CTV.Kitchener.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-28 00:20 - NFL - Denver Broncos vs Los Angeles Rams (CTV Kitchener CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Kitchener%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Calgary.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-28 00:20 - NFL - Denver Broncos vs Los Angeles Rams (CTV Calgary CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Calgary%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Toronto.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-28 00:20 - NFL - Denver Broncos vs Los Angeles Rams (CTV Toronto CA)
@@ -1859,6 +1859,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Edmonton&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Ottawa.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-02 00:15 - NFL - Cleveland Browns vs Pittsburgh Steelers (CTV Ottawa HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Ottawa%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CTV.Kitchener.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-02 00:15 - NFL - Cleveland Browns vs Pittsburgh Steelers (CTV Kitchener CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Kitchener%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Calgary.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-02 00:15 - NFL - Cleveland Browns vs Pittsburgh Steelers (CTV Calgary CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Calgary%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Toronto.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-02 00:15 - NFL - Cleveland Browns vs Pittsburgh Steelers (CTV Toronto CA)
@@ -2013,22 +2015,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.5.New.York" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-12-27 00:00 - NFL - Minnesota Vikings vs Washington Commanders (FOX 5 New York)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.06:.New.York.Mets.@.Washington.Nationals.|.HOME.NATS.|.Fri.25.Sep.18:45.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-26 16:35 - MLB - Washington Nationals vs New York Mets (MLB 06: New York Mets @ Washington Nationals | HOME NATS | Fri 25 Sep 18:45 (Live))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2006%3A%20New%20York%20Mets%20%40%20Washington%20Nationals%20%7C%20HOME%20NATS%20%7C%20Fri%2025%20Sep%2018%3A45%20(Live)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.New.York.Mets" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-26 16:35 - MLB - Washington Nationals vs New York Mets (MLB | New York Mets)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SportsNet.New.York.FHD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-new-york-fhd-us.webp",[MLB] 2026-09-26 16:35 - MLB - Washington Nationals vs New York Mets (SportsNet New York FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SportsNet%20New%20York%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.04:.Pittsburgh.Pirates.@.Detroit.Tigers.|.HOME.DSN.|.Fri.25.Sep.18:40.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-26 17:10 - MLB - Detroit Tigers vs Pittsburgh Pirates (MLB 04: Pittsburgh Pirates @ Detroit Tigers | HOME DSN | Fri 25 Sep 18:40 (Live))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2004%3A%20Pittsburgh%20Pirates%20%40%20Detroit%20Tigers%20%7C%20HOME%20DSN%20%7C%20Fri%2025%20Sep%2018%3A40%20(Live)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-26 17:10 - MLB - Detroit Tigers vs Pittsburgh Pirates (MLB | Detroit Tigers)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-26 17:10 - MLB - Detroit Tigers vs Pittsburgh Pirates (MLB | Pittsburgh Pirates)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.Network.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-26 17:10 - MLB - Detroit Tigers vs Pittsburgh Pirates (MLB Network HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="AT&T.SportsNet.Pittsburgh.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/at-t-sportsnet-pittsburgh-hd-us.webp",[MLB] 2026-09-26 17:10 - MLB - Detroit Tigers vs Pittsburgh Pirates (AT&T SportsNet Pittsburgh HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=AT%26T%20SportsNet%20Pittsburgh%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.07:.Cincinnati.Reds.@.Toronto.Blue.Jays.|.HOME.Sportsnet.|.Fri.25.Sep.19:07.(Live)" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-26 19:07 - MLB - Toronto Blue Jays vs Cincinnati Reds (MLB 07: Cincinnati Reds @ Toronto Blue Jays | HOME Sportsnet | Fri 25 Sep 19:07 (Live))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2007%3A%20Cincinnati%20Reds%20%40%20Toronto%20Blue%20Jays%20%7C%20HOME%20Sportsnet%20%7C%20Fri%2025%20Sep%2019%3A07%20(Live)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Toronto.Blue.Jays" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-26 19:07 - MLB - Toronto Blue Jays vs Cincinnati Reds (MLB | Toronto Blue Jays)
@@ -2223,46 +2209,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-30 20:00 - MLB - New York Yankees vs Boston Red Sox (MLB | Boston Red Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.09:.Colorado.vs.Baylor.@.Sep.26.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 16:00 - NCAA Division 1 Football - Baylor vs Colorado (NCAAF 09: Colorado vs Baylor @ Sep 26 12:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2009%3A%20Colorado%20vs%20Baylor%20%40%20Sep%2026%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.11:.Wake.Forest.vs.Louisville.@.Sep.26.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 16:00 - NCAA Division 1 Football - Louisville vs Wake Forest (NCAAF 11: Wake Forest vs Louisville @ Sep 26 12:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2011%3A%20Wake%20Forest%20vs%20Louisville%20%40%20Sep%2026%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.12:.Illinois.vs.Ohio.State.@.Sep.26.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 16:00 - NCAA Division 1 Football - Ohio State vs Illinois (NCAAF 12: Illinois vs Ohio State @ Sep 26 12:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2012%3A%20Illinois%20vs%20Ohio%20State%20%40%20Sep%2026%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.14:.Rio.Grande.vs.Duquesne.@.Sep.26.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 16:00 - NCAA Division 1 Football - Duquesne vs Rio Grande (NCAAF 14: Rio Grande vs Duquesne @ Sep 26 12:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2014%3A%20Rio%20Grande%20vs%20Duquesne%20%40%20Sep%2026%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.10:.Virginia.Tech.vs.Boston.College.@.Sep.26.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 16:00 - NCAA Division 1 Football - Boston College vs Virginia Tech (NCAAF 10: Virginia Tech vs Boston College @ Sep 26 12:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2010%3A%20Virginia%20Tech%20vs%20Boston%20College%20%40%20Sep%2026%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.13:.Ball.State.vs.Kent.State.@.Sep.26.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 16:00 - NCAA Division 1 Football - Kent State vs Ball State (NCAAF 13: Ball State vs Kent State @ Sep 26 12:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2013%3A%20Ball%20State%20vs%20Kent%20State%20%40%20Sep%2026%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.07:.New.Hampshire.vs.Sacred.Heart.@.Sep.26.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 16:00 - NCAA Division 1 Football - Sacred Heart vs New Hampshire (NCAAF 07: New Hampshire vs Sacred Heart @ Sep 26 12:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2007%3A%20New%20Hampshire%20vs%20Sacred%20Heart%20%40%20Sep%2026%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.08:.Presbyterian.vs.Marist.@.Sep.26.12:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 16:00 - NCAA Division 1 Football - Marist vs Presbyterian (NCAAF 08: Presbyterian vs Marist @ Sep 26 12:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2008%3A%20Presbyterian%20vs%20Marist%20%40%20Sep%2026%2012%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.15:.Columbia.vs.Georgetown.@.Sep.26.12:30.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 16:30 - NCAA Division 1 Football - Georgetown vs Columbia (NCAAF 15: Columbia vs Georgetown @ Sep 26 12:30 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2015%3A%20Columbia%20vs%20Georgetown%20%40%20Sep%2026%2012%3A30%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.16:.Holy.Cross.vs.Lafayette.@.Sep.26.12:30.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 16:30 - NCAA Division 1 Football - Lafayette vs Holy Cross (NCAAF 16: Holy Cross vs Lafayette @ Sep 26 12:30 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2016%3A%20Holy%20Cross%20vs%20Lafayette%20%40%20Sep%2026%2012%3A30%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.17:.South.Alabama.vs.Kentucky.@.Sep.26.12:45.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 16:45 - NCAA Division 1 Football - Kentucky vs South Alabama (NCAAF 17: South Alabama vs Kentucky @ Sep 26 12:45 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2017%3A%20South%20Alabama%20vs%20Kentucky%20%40%20Sep%2026%2012%3A45%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.20:.Lindenwood.vs.Eastern.Michigan.@.Sep.26.1:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 17:00 - NCAA Division 1 Football - Eastern Michigan vs Lindenwood (NCAAF 20: Lindenwood vs Eastern Michigan @ Sep 26 1:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2020%3A%20Lindenwood%20vs%20Eastern%20Michigan%20%40%20Sep%2026%201%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.21:.Monmouth.vs.Dartmouth.@.Sep.26.1:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 17:00 - NCAA Division 1 Football - Dartmouth vs Monmouth (NCAAF 21: Monmouth vs Dartmouth @ Sep 26 1:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2021%3A%20Monmouth%20vs%20Dartmouth%20%40%20Sep%2026%201%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.19:.Stony.Brook.vs.Fordham.@.Sep.26.1:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 17:00 - NCAA Division 1 Football - Fordham vs Stony Brook (NCAAF 19: Stony Brook vs Fordham @ Sep 26 1:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2019%3A%20Stony%20Brook%20vs%20Fordham%20%40%20Sep%2026%201%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.18:.Yale.vs.Cornell.@.Sep.26.1:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 17:00 - NCAA Division 1 Football - Cornell vs Yale (NCAAF 18: Yale vs Cornell @ Sep 26 1:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2018%3A%20Yale%20vs%20Cornell%20%40%20Sep%2026%201%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.05:.Northwestern.vs.Indiana.@.Sep.25.8:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 17:00 - NCAA Division 1 Football - Indiana State vs North Dakota (NCAAF 05: Northwestern vs Indiana @ Sep 25 8:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2005%3A%20Northwestern%20vs%20Indiana%20%40%20Sep%2025%208%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.22:.Lehigh.vs.Penn.@.Sep.26.1:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 17:00 - NCAA Division 1 Football - Penn vs Lehigh (NCAAF 22: Lehigh vs Penn @ Sep 26 1:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2022%3A%20Lehigh%20vs%20Penn%20%40%20Sep%2026%201%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.23:.Drake.vs.Davidson.@.Sep.26.1:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 17:00 - NCAA Division 1 Football - Davidson vs Drake (NCAAF 23: Drake vs Davidson @ Sep 26 1:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2023%3A%20Drake%20vs%20Davidson%20%40%20Sep%2026%201%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.92:.New.Haven.vs.Merrimack.@.Sep.26.7:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 17:00 - NCAA Division 1 Football - Merrimack vs New Haven (NCAAF 92: New Haven vs Merrimack @ Sep 26 7:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2092%3A%20New%20Haven%20vs%20Merrimack%20%40%20Sep%2026%207%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.26:.UCLA.vs.Maryland.@.Sep.26.1:30.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 17:30 - NCAA Division 1 Football - Maryland vs UCLA (NCAAF 26: UCLA vs Maryland @ Sep 26 1:30 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2026%3A%20UCLA%20vs%20Maryland%20%40%20Sep%2026%201%3A30%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.25:.Tennessee.Tech.vs.Wofford.@.Sep.26.1:30.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 17:30 - NCAA Division 1 Football - Wofford vs Tennessee Tech (NCAAF 25: Tennessee Tech vs Wofford @ Sep 26 1:30 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2025%3A%20Tennessee%20Tech%20vs%20Wofford%20%40%20Sep%2026%201%3A30%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.27:.Notre.Dame.vs.Purdue.@.Sep.26.2:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 18:00 - NCAA Division 1 Football - Purdue vs Notre Dame (NCAAF 27: Notre Dame vs Purdue @ Sep 26 2:00 PM)
@@ -2281,10 +2229,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2029%3A%20Chattanooga%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2032%3A%20UT%20Martin%20vs%20Austin%20Peay%20%40%20Sep%2026%202%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.31:.Colgate.vs.Villanova.@.Sep.26.2:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 18:30 - NCAA Division 1 Football - Villanova vs Colgate (NCAAF 31: Colgate vs Villanova @ Sep 26 2:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2031%3A%20Colgate%20vs%20Villanova%20%40%20Sep%2026%202%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.37:.Central.Arkansas.vs.Florida.State.@.Sep.26.3:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 19:00 - NCAA Division 1 Football - Florida State vs Central Arkansas (NCAAF 37: Central Arkansas vs Florida State @ Sep 26 3:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2037%3A%20Central%20Arkansas%20vs%20Florida%20State%20%40%20Sep%2026%203%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.39:.Hawaii.vs.Wyoming.@.Sep.26.3:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 19:00 - NCAA Division 1 Football - Wyoming vs Hawaii (NCAAF 39: Hawaii vs Wyoming @ Sep 26 3:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2039%3A%20Hawaii%20vs%20Wyoming%20%40%20Sep%2026%203%3A00%20PM&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NCAAF.37:.Central.Arkansas.vs.Florida.State.@.Sep.26.3:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 19:00 - NCAA Division 1 Football - Florida State vs Central Arkansas (NCAAF 37: Central Arkansas vs Florida State @ Sep 26 3:00 PM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2037%3A%20Central%20Arkansas%20vs%20Florida%20State%20%40%20Sep%2026%203%3A00%20PM&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NCAAF.48:.VMI.vs.Samford.@.Sep.26.3:30.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 19:30 - NCAA Division 1 Football - Samford vs VMI (NCAAF 48: VMI vs Samford @ Sep 26 3:30 PM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2048%3A%20VMI%20vs%20Samford%20%40%20Sep%2026%203%3A30%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.46:.Ole.Miss.vs.Florida.@.Sep.26.3:30.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 19:30 - NCAA Division 1 Football - Florida vs Ole Miss (NCAAF 46: Ole Miss vs Florida @ Sep 26 3:30 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2046%3A%20Ole%20Miss%20vs%20Florida%20%40%20Sep%2026%203%3A30%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.45:.Oklahoma.vs.Georgia.@.Sep.26.3:30.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 19:30 - NCAA Division 1 Football - Georgia vs Oklahoma (NCAAF 45: Oklahoma vs Georgia @ Sep 26 3:30 PM)
@@ -2305,20 +2255,18 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2047%3A%20New%20Mexico%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2040%3A%20Robert%20Morris%20vs%20Buffalo%20%40%20Sep%2026%203%3A30%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.50:.Gardner-Webb.vs.Marshall.@.Sep.26.3:30.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 19:30 - NCAA Division 1 Football - Marshall vs Gardner-Webb (NCAAF 50: Gardner-Webb vs Marshall @ Sep 26 3:30 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2050%3A%20Gardner-Webb%20vs%20Marshall%20%40%20Sep%2026%203%3A30%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.48:.VMI.vs.Samford.@.Sep.26.3:30.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 19:30 - NCAA Division 1 Football - Samford vs VMI (NCAAF 48: VMI vs Samford @ Sep 26 3:30 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2048%3A%20VMI%20vs%20Samford%20%40%20Sep%2026%203%3A30%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.44:.Stonehill.vs.Ohio.@.Sep.26.3:30.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 19:30 - NCAA Division 1 Football - Ohio vs Stonehill (NCAAF 44: Stonehill vs Ohio @ Sep 26 3:30 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2044%3A%20Stonehill%20vs%20Ohio%20%40%20Sep%2026%203%3A30%20PM&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NCAAF.59:.Texas.Southern.vs.Alcorn.State.@.Sep.26.4:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 20:00 - NCAA Division 1 Football - Alcorn State vs Texas Southern (NCAAF 59: Texas Southern vs Alcorn State @ Sep 26 4:00 PM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2059%3A%20Texas%20Southern%20vs%20Alcorn%20State%20%40%20Sep%2026%204%3A00%20PM&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NCAAF.57:.Lamar.vs.Nicholls.@.Sep.26.4:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 20:00 - NCAA Division 1 Football - Nicholls vs Lamar (NCAAF 57: Lamar vs Nicholls @ Sep 26 4:00 PM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2057%3A%20Lamar%20vs%20Nicholls%20%40%20Sep%2026%204%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.54:.Houston.vs.Georgia.Southern.@.Sep.26.4:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 20:00 - NCAA Division 1 Football - Georgia Southern vs Houston (NCAAF 54: Houston vs Georgia Southern @ Sep 26 4:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2054%3A%20Houston%20vs%20Georgia%20Southern%20%40%20Sep%2026%204%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.56:.Rhode.Island.vs.North.Carolina.A&T.@.Sep.26.4:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 20:00 - NCAA Division 1 Football - North Carolina A and T vs Rhode Island (NCAAF 56: Rhode Island vs North Carolina A&T @ Sep 26 4:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2056%3A%20Rhode%20Island%20vs%20North%20Carolina%20A%26T%20%40%20Sep%2026%204%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.58:.Western.Illinois.vs.North.Alabama.@.Sep.26.4:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 20:00 - NCAA Division 1 Football - North Alabama vs Western Illinois (NCAAF 58: Western Illinois vs North Alabama @ Sep 26 4:00 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2058%3A%20Western%20Illinois%20vs%20North%20Alabama%20%40%20Sep%2026%204%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.59:.Texas.Southern.vs.Alcorn.State.@.Sep.26.4:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 20:00 - NCAA Division 1 Football - Alcorn State vs Texas Southern (NCAAF 59: Texas Southern vs Alcorn State @ Sep 26 4:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2059%3A%20Texas%20Southern%20vs%20Alcorn%20State%20%40%20Sep%2026%204%3A00%20PM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NCAAF.57:.Lamar.vs.Nicholls.@.Sep.26.4:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 20:00 - NCAA Division 1 Football - Nicholls vs Lamar (NCAAF 57: Lamar vs Nicholls @ Sep 26 4:00 PM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2057%3A%20Lamar%20vs%20Nicholls%20%40%20Sep%2026%204%3A00%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.60:.Vanderbilt.vs.Auburn.@.Sep.26.4:15.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 20:15 - NCAA Division 1 Football - Auburn vs Vanderbilt (NCAAF 60: Vanderbilt vs Auburn @ Sep 26 4:15 PM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NCAAF%2060%3A%20Vanderbilt%20vs%20Auburn%20%40%20Sep%2026%204%3A15%20PM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NCAAF.63:.Nebraska.vs.Michigan.State.@.Sep.26.5:00.PM" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-09-26 21:00 - NCAA Division 1 Football - Michigan State vs Nebraska (NCAAF 63: Nebraska vs Michigan State @ Sep 26 5:00 PM)
