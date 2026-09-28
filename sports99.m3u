@@ -3,23 +3,5 @@
 https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-hd-us.webp",[NFL] 2026-09-29 00:15 - NFL - Chicago Bears vs Philadelphia Eagles (ESPN HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-29 00:15 - NFL - Chicago Bears vs Philadelphia Eagles (TSN 1 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CA.CTV.Edmonton" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-02 00:15 - NFL - Cleveland Browns vs Pittsburgh Steelers (CA CTV Edmonton)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Edmonton&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.1.FHD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-02 00:15 - NFL - Cleveland Browns vs Pittsburgh Steelers (TSN 1 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.9.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-9-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-11 20:05 - NFL - Los Angeles Chargers vs Denver Broncos (FR: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%209%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.9.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-9-no-event-streaming-8k-exclusive.webp",[NFL] 2026-10-13 00:15 - NFL - Los Angeles Rams vs Buffalo Bills (FR: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%209%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.9.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-9-no-event-streaming-8k-exclusive.webp",[NFL] 2026-11-16 01:20 - NFL - Cincinnati Bengals vs Pittsburgh Steelers (FR: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%209%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.9.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-9-no-event-streaming-8k-exclusive.webp",[NFL] 2026-11-20 01:15 - NFL - Houston Texans vs Indianapolis Colts (FR: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%209%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.9.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-9-no-event-streaming-8k-exclusive.webp",[NFL] 2026-12-29 01:15 - NFL - Detroit Lions vs New York Giants (FR: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%209%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.9.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-9-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Denver Broncos vs Los Angeles Chargers (FR: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%209%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FR:.DAZN.PPV.9.-.NO.EVENT.STREAMING.-.|.8K.EXCLUSIVE" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/fr-dazn-ppv-9-no-event-streaming-8k-exclusive.webp",[NFL] 2027-01-10 00:00 - NFL - Arizona Cardinals vs San Francisco 49ers (FR: DAZN PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FR%3A%20DAZN%20PPV%209%20-%20NO%20EVENT%20STREAMING%20-%20%7C%208K%20EXCLUSIVE&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-09-29 00:15 - NFL - Chicago Bears vs Philadelphia Eagles (ESPN Deportes US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
