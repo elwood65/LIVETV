@@ -1,39 +1,29 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Univision.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-09-30 01:00 - International Friendlies - Mexico vs Peru (Univision CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-network-us.webp",[Basketball] 2026-09-30 00:30 - WNBA - New York Liberty vs Minnesota Lynx (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-02 04:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-02 08:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-03 04:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-03 08:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-04 07:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 10:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 10:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 10:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 09:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 09:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.F1.FHD.UK" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-f1-fhd-uk.webp",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.Network.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 10:00 - NASCAR Cup Series -  vs  (USA Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-04 13:30 - NFL - Washington Commanders vs Indianapolis Colts (ESPN Deportes US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-06 00:15 - NFL - New Orleans Saints vs Atlanta Falcons (ESPN Deportes US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBC.4.(WNBC).New.York.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-4-wnbc-new-york-hd-us.webp",[MLB] 2026-09-29 18:00 - MLB - Atlanta Braves vs Philadelphia Phillies (NBC 4 (WNBC) New York HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%204%20(WNBC)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-29 18:00 - MLB - Atlanta Braves vs Philadelphia Phillies (Sportsnet Ontario HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[MLB] 2026-09-29 18:00 - MLB - Atlanta Braves vs Philadelphia Phillies (ESPN 2 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBC.4.(WNBC).New.York.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-4-wnbc-new-york-hd-us.webp",[MLB] 2026-09-30 00:00 - MLB - New York Yankees vs Boston Red Sox (NBC 4 (WNBC) New York HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%204%20(WNBC)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[MLB] 2026-09-30 00:00 - MLB - New York Yankees vs Boston Red Sox (ESPN 2 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBC.4.(WNBC).New.York.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-4-wnbc-new-york-hd-us.webp",[MLB] 2026-09-30 18:00 - MLB - Atlanta Braves vs Philadelphia Phillies (NBC 4 (WNBC) New York HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%204%20(WNBC)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-30 18:00 - MLB - Atlanta Braves vs Philadelphia Phillies (Sportsnet Ontario HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[MLB] 2026-09-30 18:00 - MLB - Atlanta Braves vs Philadelphia Phillies (ESPN 2 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBC.4.(WNBC).New.York.HD.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-4-wnbc-new-york-hd-us.webp",[MLB] 2026-10-01 00:00 - MLB - New York Yankees vs Boston Red Sox (NBC 4 (WNBC) New York HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%204%20(WNBC)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-2-hd-br.webp",[MLB] 2026-10-01 00:00 - MLB - New York Yankees vs Boston Red Sox (ESPN 2 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CNBC.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cnbc-us.webp",[Basketball] 2026-09-30 00:30 - WNBA - New York Liberty vs Minnesota Lynx (CNBC US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CNBC%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-09-30 23:00 - WNBA - Washington Mystics vs Atlanta Dream (ESPN Deportes US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
