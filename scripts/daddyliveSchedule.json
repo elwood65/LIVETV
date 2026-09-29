@@ -1,5 +1,17 @@
 {
     "Tuesday 29th Sep 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:15",
+                "event": "\ud83c\udfc1 Millbridge Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "16"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -1490,6 +1502,10 @@
                     {
                         "channel_name": "Sportklub 7 Croatia",
                         "channel_id": "29"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5010"
                     }
                 ]
             },
@@ -1512,6 +1528,10 @@
                     {
                         "channel_name": "RTVS Sport Slovakia",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5011"
                     }
                 ]
             },
@@ -1530,6 +1550,10 @@
                     {
                         "channel_name": "TV Klan Albania",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5012"
                     }
                 ]
             },
@@ -1560,6 +1584,10 @@
                     {
                         "channel_name": "SporTV 3 Brazil",
                         "channel_id": "80"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5013"
                     }
                 ]
             },
@@ -1634,12 +1662,16 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5014"
                     }
                 ]
             },
             {
                 "time": "18:45",
-                "event": "\u26bd \ud83c\udde8\ud83c\uddff UEFA Nations League : Czech Republic \ud83c\udde8\ud83c\uddff vs England \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
+                "event": "\u26bd \ud83c\udde8\ud83c\uddff UEFA Nations League : Czech Republic \ud83c\udde8\ud83c\uddff vs England \ud83c\udff4 \udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
                 "channels": [
                     {
                         "channel_name": "DAZN CA",
@@ -1712,6 +1744,10 @@
                     {
                         "channel_name": "Sport 2 Israel",
                         "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5015"
                     }
                 ]
             },
@@ -1754,6 +1790,10 @@
                     {
                         "channel_name": "Sportklub 5 Croatia",
                         "channel_id": "27"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5016"
                     }
                 ]
             },
@@ -1788,6 +1828,10 @@
                     {
                         "channel_name": "beIN SPORTS MENA 8",
                         "channel_id": "98"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5017"
                     }
                 ]
             },
@@ -1912,6 +1956,10 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1215"
                     }
                 ]
             },
@@ -1922,6 +1970,30 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1216"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\u26bd Chile Copa : D Puerto Montt vs Colo Colo",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1219"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\u26bd Brazil Serie B : Botafogo SP vs Ponte Preta",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1220"
                     }
                 ]
             },
@@ -1948,12 +2020,24 @@
                         "channel_id": "338"
                     },
                     {
+                        "channel_name": "Mega TV Chili",
+                        "channel_id": "30"
+                    },
+                    {
                         "channel_name": "truTV USA",
                         "channel_id": "341"
                     },
                     {
                         "channel_name": "ESPN Brazil",
                         "channel_id": "81"
+                    },
+                    {
+                        "channel_name": "TNT USA",
+                        "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "NBC UNIVERSO",
+                        "channel_id": "3029"
                     }
                 ]
             },
@@ -1976,6 +2060,10 @@
                     {
                         "channel_name": "Univision",
                         "channel_id": "132"
+                    },
+                    {
+                        "channel_name": "TUDN USA",
+                        "channel_id": "3030"
                     }
                 ]
             },
@@ -3194,6 +3282,22 @@
                     {
                         "channel_name": "RMC Sport 1 France",
                         "channel_id": "119"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2010"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4048"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5023"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "3004"
                     }
                 ]
             }
@@ -3526,6 +3630,10 @@
                         "channel_id": "18"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1218"
+                    },
+                    {
                         "channel_name": "NBC Universo",
                         "channel_id": "845"
                     },
@@ -3544,6 +3652,10 @@
                     {
                         "channel_name": "ESPN2 Argentina",
                         "channel_id": "150"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5020"
                     }
                 ]
             },
@@ -3582,6 +3694,18 @@
                     {
                         "channel_name": "ESPN2 Brazil",
                         "channel_id": "82"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4017"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5021"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "3002"
                     }
                 ]
             },
@@ -3608,6 +3732,18 @@
                     {
                         "channel_name": "ESPN4 Brazil",
                         "channel_id": "85"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4018"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "5022"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "3003"
                     }
                 ]
             }
@@ -4018,6 +4154,28 @@
         ],
         "WNBA \ud83c\udfc0": [
             {
+                "time": "22:30",
+                "event": "\ud83c\udfc0 \ud83c\uddfa\ud83c\uddf8 WNBA : Las Vegas Aces W vs Indiana Fever W",
+                "channels": [
+                    {
+                        "channel_name": "WNBA League Pass",
+                        "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1221"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4060"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2011"
+                    }
+                ]
+            },
+            {
                 "time": "00:30",
                 "event": "\ud83c\udfc0 \ud83c\uddfa\ud83c\uddf8 WNBA : New York Liberty \ud83c\uddfa\ud83c\uddf8 vs Minnesota Lynx \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
@@ -4056,6 +4214,18 @@
                     {
                         "channel_name": "Sport 5 Israel",
                         "channel_id": "144"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4061"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "3010"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "2012"
                     }
                 ]
             }
@@ -4482,6 +4652,10 @@
                         "channel_id": "3"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1217"
+                    },
+                    {
                         "channel_name": "Viaplay Sports 1 UK",
                         "channel_id": "451"
                     },
@@ -4508,6 +4682,10 @@
                     {
                         "channel_name": "Sport 5 Star Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4050"
                     }
                 ]
             },
@@ -4546,6 +4724,14 @@
                     {
                         "channel_name": "Sport 5 Star Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4051"
+                    },
+                    {
+                        "channel_name": "TVA Sports",
+                        "channel_id": "3032"
                     }
                 ]
             },
@@ -4564,6 +4750,14 @@
                     {
                         "channel_name": "ESPN3 Argentina",
                         "channel_id": "798"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4052"
+                    },
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "3031"
                     }
                 ]
             },
@@ -4606,6 +4800,14 @@
                     {
                         "channel_name": "Sport 5 Star Israel",
                         "channel_id": "147"
+                    },
+                    {
+                        "channel_name": "SportsNet+",
+                        "channel_id": "3033"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4053"
                     }
                 ]
             },
@@ -4632,6 +4834,14 @@
                     {
                         "channel_name": "V Sport Premium",
                         "channel_id": "572"
+                    },
+                    {
+                        "channel_name": "ESPN USA",
+                        "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "4054"
                     }
                 ]
             }
